@@ -10,3 +10,19 @@ I did my subscription to a course that was being given by IMED and Avanade Brasi
 And now in 2022 I received the news that I'm approved to the Oracle Program "Oracle Next Education" that will give me the chance of build new projects and improve my technology skills.
 
 Now I'm really motivaded to keep learning!! #letscode
+
+
+Now in Portuguese:
+
+ Olá Mundo
+Aprendendo Github com o guia Github
+
+Sobre mim:
+Meu nome é Rhyan e atualmente estou morando no Brasil.
+Um amigo meu me recomendou aprender a codificar há 2 anos, mas eu não conhecia esse trabalho e estava apreensivo sobre essa área.
+Mas em 2020 o Covid 19 estava se espalhando rapidamente e eu estava procurando emprego e decidi aprender mais sobre isso.
+Fiz minha inscrição em um curso que estava sendo ministrado pela IMED e Avanade Brasil e fui escolhido, nesse curso aprendi sobre HTML, CSS, JS e muitas outras coisas que são importantes para um programador, como Soft Skills.
+
+E agora em 2022 recebi a notícia de que fui aprovado no Programa da Oracle "Oracle Next Education" que me dará a chance de construir novos projetos e aprimorar minhas habilidades tecnológicas.
+
+Agora estou realmente motivado a continuar aprendendo!! #letscode
